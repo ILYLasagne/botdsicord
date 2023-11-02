@@ -1,0 +1,243 @@
+{"level":30,"time":1698899143191,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Validating config file and environment variables"}
+{"level":40,"time":1698899143193,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1698899143260,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Loading commands..."}
+{"level":20,"time":1698899147675,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1698899147679,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1698899147683,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1698899147723,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1698899147729,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1698899147736,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1698899147745,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1698899147747,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1698899147768,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1698899147769,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1698899147905,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1698899147935,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1698899147939,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1698899148271,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1698899148282,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1698899148291,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1698899148300,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1698899148304,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1698899148306,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1698899148311,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1698899148312,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1698899148317,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1698899148320,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1698899148325,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1698899148328,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1698899148334,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1698899148344,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1698899148712,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1698899148713,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1698899148714,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1698899149034,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 102 commands"}
+{"level":30,"time":1698899149034,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1698899149034,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Loading contexts..."}
+{"level":30,"time":1698899149048,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1698899149048,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1698899149049,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Loading events..."}
+{"level":30,"time":1698899149210,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1698899149537,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1698899149538,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Launching dashboard"}
+{"level":30,"time":1698899150023,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1698899150070,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1698899150109,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Dashboard is listening on port 8080"}
+{"level":30,"time":1698899150967,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Logged in as Mew#1467! (1136077547721982012)"}
+{"level":20,"time":1698899150968,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1698899150969,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Music Manager initialized"}
+{"level":30,"time":1698899150969,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1698899150986,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1698899150987,"pid":288,"hostname":"DESKTOP-08DDIKI","err":{"type":"Error","message":"Error: connect ECONNREFUSED ::1:2333","stack":"Error: Error: connect ECONNREFUSED ::1:2333\n    at Connection._onerror (C:\\Users\\macha\\Desktop\\discord-js-bot-5.4.0\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\Users\\macha\\Desktop\\discord-js-bot-5.4.0\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\Users\\macha\\Desktop\\discord-js-bot-5.4.0\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:513:28)\n    at emitErrorAndClose (C:\\Users\\macha\\Desktop\\discord-js-bot-5.4.0\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\Users\\macha\\Desktop\\discord-js-bot-5.4.0\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:513:28)\n    at Socket.socketErrorListener (node:_http_client:502:9)\n    at Socket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"Local Node\" encountered an error: Error: connect ECONNREFUSED ::1:2333.: Error: connect ECONNREFUSED ::1:2333"}
+{"level":30,"time":1698899150992,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1698899150992,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1698899151583,"pid":288,"hostname":"DESKTOP-08DDIKI","msg":"Successfully registered interactions"}
+{"level":30,"time":1698899291169,"pid":3512,"hostname":"DESKTOP-08DDIKI","msg":"Validating config file and environment variables"}
+{"level":40,"time":1698899291171,"pid":3512,"hostname":"DESKTOP-08DDIKI","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1698899291834,"pid":3512,"hostname":"DESKTOP-08DDIKI","msg":"Loading commands..."}
+{"level":30,"time":1698899297714,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Validating config file and environment variables"}
+{"level":40,"time":1698899297715,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1698899297757,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Loading commands..."}
+{"level":20,"time":1698899299619,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1698899299624,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1698899299625,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1698899299658,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1698899299665,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1698899299672,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1698899299696,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1698899299697,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1698899299771,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1698899299772,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1698899299789,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1698899299796,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1698899299798,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1698899299882,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1698899299892,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1698899299902,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1698899299943,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1698899299982,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1698899300009,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1698899300030,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1698899300072,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1698899300078,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1698899300080,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1698899300086,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1698899300105,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1698899300112,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1698899300121,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1698899300246,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1698899300246,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1698899300247,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1698899300495,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 102 commands"}
+{"level":30,"time":1698899300495,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1698899300495,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Loading contexts..."}
+{"level":30,"time":1698899300509,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1698899300509,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1698899300509,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Loading events..."}
+{"level":30,"time":1698899300761,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1698899301076,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1698899301076,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Launching dashboard"}
+{"level":30,"time":1698899303966,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1698899303994,"pid":11688,"hostname":"DESKTOP-08DDIKI","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1698899321602,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Validating config file and environment variables"}
+{"level":40,"time":1698899321603,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1698899321645,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Loading commands..."}
+{"level":20,"time":1698899322205,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1698899322206,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1698899322207,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1698899322212,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1698899322213,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1698899322215,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1698899322217,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1698899322218,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1698899322226,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1698899322227,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1698899322228,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1698899322230,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1698899322231,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1698899322243,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1698899322244,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1698899322246,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1698899322246,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1698899322247,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1698899322247,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1698899322248,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1698899322249,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1698899322249,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1698899322250,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1698899322252,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1698899322253,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1698899322255,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1698899322256,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1698899322274,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1698899322275,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1698899322276,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1698899322306,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 102 commands"}
+{"level":30,"time":1698899322306,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1698899322306,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Loading contexts..."}
+{"level":30,"time":1698899322308,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1698899322308,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1698899322308,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Loading events..."}
+{"level":30,"time":1698899322348,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1698899322714,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1698899322714,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Launching dashboard"}
+{"level":30,"time":1698899322848,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1698899322875,"pid":15760,"hostname":"DESKTOP-08DDIKI","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1698899406157,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Validating config file and environment variables"}
+{"level":40,"time":1698899406159,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1698899406204,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Loading commands..."}
+{"level":20,"time":1698899406811,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1698899406812,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1698899406813,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1698899406818,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1698899406820,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1698899406821,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1698899406823,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1698899406824,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1698899406833,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1698899406833,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1698899406834,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1698899406836,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1698899406837,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1698899406851,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1698899406852,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1698899406854,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1698899406854,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1698899406855,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1698899406856,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1698899406857,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1698899406858,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1698899406859,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1698899406860,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1698899406861,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1698899406862,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1698899406864,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1698899406866,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1698899406884,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1698899406885,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1698899406885,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1698899406909,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 102 commands"}
+{"level":30,"time":1698899406909,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1698899406909,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Loading contexts..."}
+{"level":30,"time":1698899406911,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1698899406915,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1698899406916,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Loading events..."}
+{"level":30,"time":1698899406954,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1698899407279,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1698899407279,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Launching dashboard"}
+{"level":30,"time":1698899407425,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1698899407457,"pid":22852,"hostname":"DESKTOP-08DDIKI","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1698899419549,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Validating config file and environment variables"}
+{"level":40,"time":1698899419551,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"env: WEATHERSTACK_KEY is missing. Weather command won't work"}
+{"level":30,"time":1698899419604,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Loading commands..."}
+{"level":20,"time":1698899420210,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command filter. Category IMAGE is disabled"}
+{"level":20,"time":1698899420211,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command generator. Category IMAGE is disabled"}
+{"level":20,"time":1698899420211,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping Command overlay. Category IMAGE is disabled"}
+{"level":20,"time":1698899420216,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command avatar. Disabled!"}
+{"level":20,"time":1698899420217,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command botinvite. Disabled!"}
+{"level":20,"time":1698899420218,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command botstats. Disabled!"}
+{"level":20,"time":1698899420220,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command channelinfo. Disabled!"}
+{"level":20,"time":1698899420221,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command emojiinfo. Disabled!"}
+{"level":20,"time":1698899420230,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command guildinfo. Disabled!"}
+{"level":20,"time":1698899420230,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command uptime. Disabled!"}
+{"level":20,"time":1698899420231,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command userinfo. Disabled!"}
+{"level":20,"time":1698899420233,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command bot. Disabled!"}
+{"level":20,"time":1698899420234,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command info. Disabled!"}
+{"level":20,"time":1698899420244,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command deafen. Disabled!"}
+{"level":20,"time":1698899420245,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command disconnect. Disabled!"}
+{"level":20,"time":1698899420246,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command move. Disabled!"}
+{"level":20,"time":1698899420246,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purge. Disabled!"}
+{"level":20,"time":1698899420247,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgeattach. Disabled!"}
+{"level":20,"time":1698899420248,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgebots. Disabled!"}
+{"level":20,"time":1698899420248,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgelinks. Disabled!"}
+{"level":20,"time":1698899420249,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgetoken. Disabled!"}
+{"level":20,"time":1698899420249,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command purgeuser. Disabled!"}
+{"level":20,"time":1698899420250,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command undeafen. Disabled!"}
+{"level":20,"time":1698899420251,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command vmute. Disabled!"}
+{"level":20,"time":1698899420252,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command vunmute. Disabled!"}
+{"level":20,"time":1698899420254,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command purge. Disabled!"}
+{"level":20,"time":1698899420255,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping command voice. Disabled!"}
+{"level":20,"time":1698899420270,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command eval. Disabled!"}
+{"level":20,"time":1698899420271,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command leaveserver. Disabled!"}
+{"level":20,"time":1698899420272,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Skipping slash command listservers. Disabled!"}
+{"level":30,"time":1698899420301,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 102 commands"}
+{"level":30,"time":1698899420301,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 83 slash commands"}
+{"level":30,"time":1698899420302,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Loading contexts..."}
+{"level":30,"time":1698899420304,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 0 USER contexts"}
+{"level":30,"time":1698899420304,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 0 MESSAGE contexts"}
+{"level":30,"time":1698899420304,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Loading events..."}
+{"level":30,"time":1698899420343,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Loaded 15 events. Success (15) Failed (0)"}
+{"level":30,"time":1698899420492,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"VersionCheck: Your discord bot is up to date"}
+{"level":30,"time":1698899420492,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Launching dashboard"}
+{"level":30,"time":1698899420633,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Connecting to MongoDb..."}
+{"level":30,"time":1698899420660,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Mongoose: Database connection established"}
+{"level":30,"time":1698899420677,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Dashboard is listening on port 8081"}
+{"level":30,"time":1698899421709,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Logged in as Mew#1467! (1136077547721982012)"}
+{"level":20,"time":1698899421710,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Node \"Local Node\" debug: connection: creating websocket..."}
+{"level":30,"time":1698899421711,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Music Manager initialized"}
+{"level":30,"time":1698899421711,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Initializing giveaways manager..."}
+{"level":30,"time":1698899421725,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Giveaway Manager initialized"}
+{"level":50,"time":1698899421726,"pid":9820,"hostname":"DESKTOP-08DDIKI","err":{"type":"Error","message":"Error: connect ECONNREFUSED ::1:2333","stack":"Error: Error: connect ECONNREFUSED ::1:2333\n    at Connection._onerror (C:\\Users\\macha\\Desktop\\discord-js-bot-5.4.0\\node_modules\\lavaclient\\dist\\lib\\node\\Connection.js:145:33)\n    at callListener (C:\\Users\\macha\\Desktop\\discord-js-bot-5.4.0\\node_modules\\ws\\lib\\event-target.js:290:14)\n    at WebSocket.onError (C:\\Users\\macha\\Desktop\\discord-js-bot-5.4.0\\node_modules\\ws\\lib\\event-target.js:230:9)\n    at WebSocket.emit (node:events:513:28)\n    at emitErrorAndClose (C:\\Users\\macha\\Desktop\\discord-js-bot-5.4.0\\node_modules\\ws\\lib\\websocket.js:1008:13)\n    at ClientRequest.<anonymous> (C:\\Users\\macha\\Desktop\\discord-js-bot-5.4.0\\node_modules\\ws\\lib\\websocket.js:856:5)\n    at ClientRequest.emit (node:events:513:28)\n    at Socket.socketErrorListener (node:_http_client:502:9)\n    at Socket.emit (node:events:513:28)\n    at emitErrorNT (node:internal/streams/destroy:151:8)"},"msg":"Node \"Local Node\" encountered an error: Error: connect ECONNREFUSED ::1:2333.: Error: connect ECONNREFUSED ::1:2333"}
+{"level":30,"time":1698899421730,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Node \"Local Node\" disconnected"}
+{"level":20,"time":1698899421730,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Node \"Local Node\" debug: connection: unable to reconnect"}
+{"level":30,"time":1698899422519,"pid":9820,"hostname":"DESKTOP-08DDIKI","msg":"Successfully registered interactions"}
